@@ -76,4 +76,8 @@ Here you can see the capture of each page
 - Frontend - Product Detail (Show You may also like)
     <br>
 <a href="https://ibb.co/XCg7fv4"><img src="https://i.ibb.co/1m5rYwn/Frontend-Product-Detail-2.png" alt="Frontend-Product-Detail-2" border="0"></a>
+     <br>
+- Frontend - Product Detail (Buy Via Whatsapp Chat)
+    <br>
+<a href="https://ibb.co/D1cSDVK"><img src="https://i.ibb.co/mRZMCDz/Frontend-Buy-Via-Whatsapp-PNG.png" alt="Frontend-Buy-Via-Whatsapp-PNG" border="0"></a>
 </ul>
