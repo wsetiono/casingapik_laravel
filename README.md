@@ -7,7 +7,7 @@ You can see the live url by clicking this link <a href="https://casingapik.com/"
 
 It has feature for 
 - Backend user (administrator) in order to view all, create, update, or delete product, attribute, and category.
-- Frontend user (customer) in order to see home page, search product, view product by category, view product you may like, paging, 
+- Frontend user (customer) in order to see home page, search product, view product by category, view product you may like, paging, filtering by newest/price ascending/price descending.
 
 Here you can see the capture of each page
 <ul>
@@ -57,7 +57,7 @@ Here you can see the capture of each page
     <br>
 <a href="https://ibb.co/r3y245j"><img src="https://i.ibb.co/ScvwRVj/Frontend-Home-Category.png" alt="Frontend-Home-Category" border="0"></a>
     <br>
-- Frontend - Product List By Category
+- Frontend - Product List By Category (Show Filtering by Newest/Price Ascending/Price Descending)
     <br>
 <a href="https://ibb.co/qRSt2bv"><img src="https://i.ibb.co/2j9DpXT/Frontend-Category.png" alt="Frontend-Category" border="0"></a>
     <br>
