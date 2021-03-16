@@ -42,6 +42,38 @@ Here you can see the capture of each page
 - Backend Administration - Product Edit
     <br>
 <a href="https://ibb.co/C88mLjJ"><img src="https://i.ibb.co/W55GCrD/Backend4-B.png" alt="Backend4-B" border="0"></a>
-        <br>
+     <br>
 <a href="https://ibb.co/WcMtHx9"><img src="https://i.ibb.co/2jCNFn2/Backend4-C.png" alt="Backend4-C" border="0"></a>
+     <br>
+- Frontend - Home Page (Show Search Bar, Header Menu, Hero Banner)
+    <br>
+<a href="https://ibb.co/5jnHLwb"><img src="https://i.ibb.co/dpLYDx8/Frontend-Home.png" alt="Frontend-Home" border="0"></a>
+    <br>
+- Frontend - Home Page (Show Mega Navigation Menu By Category)
+    <br>
+<a href="https://ibb.co/kh1r2yh"><img src="https://i.ibb.co/0ftWyXf/Frontend-Home-Mega-Nav.png" alt="Frontend-Home-Mega-Nav" border="0"></a>
+    <br>
+- Frontend - Home Page (Show Category Slider)
+    <br>
+<a href="https://ibb.co/r3y245j"><img src="https://i.ibb.co/ScvwRVj/Frontend-Home-Category.png" alt="Frontend-Home-Category" border="0"></a>
+    <br>
+- Frontend - Product List By Category
+    <br>
+<a href="https://ibb.co/qRSt2bv"><img src="https://i.ibb.co/2j9DpXT/Frontend-Category.png" alt="Frontend-Category" border="0"></a>
+    <br>
+- Frontend - Product List By Category (Show Pagination and Footer)
+    <br>
+<a href="https://ibb.co/4KYLgYF"><img src="https://i.ibb.co/fqnWGnX/Frontend-Home-Pagination-and-Footer.png" alt="Frontend-Home-Pagination-and-Footer" border="0"></a>
+    <br>
+- Frontend - Product Search
+    <br>
+<a href="https://ibb.co/VVdKsrx"><img src="https://i.ibb.co/H70Jj1C/Frontend-Search.png" alt="Frontend-Search" border="0"></a>
+    <br>
+- Frontend - Product Detail
+    <br>
+<a href="https://ibb.co/Jy5DbWd"><img src="https://i.ibb.co/MGMFjyh/Frontend-Product-Detail.png" alt="Frontend-Product-Detail" border="0"></a>
+    <br>
+- Frontend - Product Detail (Show You may also like)
+    <br>
+<a href="https://ibb.co/XCg7fv4"><img src="https://i.ibb.co/1m5rYwn/Frontend-Product-Detail-2.png" alt="Frontend-Product-Detail-2" border="0"></a>
 </ul>
