@@ -7,7 +7,7 @@ You can see the live url by clicking this link <a href="https://casingapik.com/"
 
 It has feature for 
 - Backend user (administrator) in order to view all, create, update, or delete product, attribute, and category.
-- Frontend user (customer) in order to see home page, search product, view product by category, view product you may like, paging, filtering by newest/price ascending/price descending.
+- Frontend user (customer) in order to see home page, search product, view product by category, view product you may like, paging, filtering by newest/price ascending/price descending, buy via whatsapp chat.
 
 Here you can see the capture of each page
 <ul>
