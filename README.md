@@ -19,7 +19,7 @@ Here you can see the capture of each page
     <br>
 <a href="https://ibb.co/f9hLSZs"><img src="https://i.ibb.co/5kNw9CP/Backend1.png" alt="Backend1" border="0"></a>
     <br>
-- Backend Administration - Category List
+- Backend Administration - Category Add, List, Delete
     <br>
 <a href="https://ibb.co/dmxQD4S"><img src="https://i.ibb.co/z6DSZV1/Backend2.png" alt="Backend2" border="0"></a>
     <br>
@@ -27,7 +27,7 @@ Here you can see the capture of each page
     <br>
 <a href="https://ibb.co/FBNqDCD"><img src="https://i.ibb.co/qRXFrVr/Backend2-B.png" alt="Backend2-B" border="0"></a>
     <br>
-- Backend Administration - Attribute List
+- Backend Administration - Attribute Add, List, Delete
     <br>
 <a href="https://ibb.co/ZM10pRN"><img src="https://i.ibb.co/qrFv3Lx/Backend3.png" alt="Backend3" border="0"></a>
     <br>
@@ -35,7 +35,7 @@ Here you can see the capture of each page
     <br>
 <a href="https://ibb.co/gdxg6LH"><img src="https://i.ibb.co/7Qqybd8/Backend3-B.png" alt="Backend3-B" border="0"></a>
         <br>
-- Backend Administration - Product List
+- Backend Administration - Product Add, List, Delete
     <br>
 <a href="https://ibb.co/xX9g8Zt"><img src="https://i.ibb.co/bQwvRtM/Backend4.png" alt="Backend4" border="0"></a>
     <br>
