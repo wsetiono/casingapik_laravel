@@ -18,4 +18,7 @@ Here you can see the capture of each page
 - Backend Administration - Dashboard
 <br>
 <a href="https://ibb.co/f9hLSZs"><img src="https://i.ibb.co/5kNw9CP/Backend1.png" alt="Backend1" border="0"></a>
+- Backend Administration - Dashboard
+<br>
+<a href="https://ibb.co/f9hLSZs"><img src="https://i.ibb.co/5kNw9CP/Backend1.png" alt="Backend1" border="0"></a>
 </ul>
