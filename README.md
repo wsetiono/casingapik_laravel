@@ -12,13 +12,19 @@ It has feature for
 Here you can see the capture of each page
 <ul>
 - Backend Administration - Login
-<br>
+    <br>
 <a href="https://ibb.co/7rH6s4S"><img src="https://i.ibb.co/p4g9Yy1/Backend-Login.png" alt="Backend-Login" border="0"></a>
-<br>
+    <br>
 - Backend Administration - Dashboard
-<br>
+    <br>
 <a href="https://ibb.co/f9hLSZs"><img src="https://i.ibb.co/5kNw9CP/Backend1.png" alt="Backend1" border="0"></a>
-- Backend Administration - Dashboard
-<br>
-<a href="https://ibb.co/f9hLSZs"><img src="https://i.ibb.co/5kNw9CP/Backend1.png" alt="Backend1" border="0"></a>
+    <br>
+- Backend Administration - Category List
+    <br>
+<a href="https://ibb.co/dmxQD4S"><img src="https://i.ibb.co/z6DSZV1/Backend2.png" alt="Backend2" border="0"></a>
+    <br>
+- Backend Administration - Category Edit
+    <br>
+<a href="https://ibb.co/FBNqDCD"><img src="https://i.ibb.co/qRXFrVr/Backend2-B.png" alt="Backend2-B" border="0"></a>
+
 </ul>
