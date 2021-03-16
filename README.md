@@ -10,18 +10,11 @@ It has feature for
 - Frontend user (customer) in order to see home page, search product, view product by category, view product you may like, paging, 
 
 Here you can see the capture of each page
-- Login Page for Backend Administration
+- Backend Administration - Login
 <br>
-<a href="https://ibb.co/C88mLjJ"><img src="https://i.ibb.co/W55GCrD/Backend4-B.png" alt="Backend4-B" border="0"></a>
+<a href="https://ibb.co/7rH6s4S"><img src="https://i.ibb.co/p4g9Yy1/Backend-Login.png" alt="Backend-Login" border="0"></a>
 
-a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+<br>
+- Backend Administration - Dashboard
+<br>
+<a href="https://ibb.co/f9hLSZs"><img src="https://i.ibb.co/5kNw9CP/Backend1.png" alt="Backend1" border="0"></a>
